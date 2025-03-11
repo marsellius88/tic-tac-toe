@@ -1,12 +1,27 @@
-# React + Vite
+# 🎮 Tic-Tac-Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Tic-Tac-Toe Screenshot](assets/preview-1.jpg)
 
-Currently, two official plugins are available:
+## 📌 Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tic-Tac-Toe is a classic web-based game built using React. It allows two players to take turns placing their marks (X and O) on a 3×3 grid. The app includes a simple and clean interface with the ability to change player names and restart the game when there's a winner or a draw. In addition, the app keeps a log of every move made by each player during the game, allowing users to track the progress of the match step by step.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 👤 Change player names  
+- ❌⭕ Turn-based gameplay for two players  
+- 📜 Logs every move made by the players
+- 🏆 Automatically detects winner or draw  
+- 🔄 Rematch button appears after game ends  
+- 🎯 Simple and intuitive UI  
+
+## 🛠️ Technologies Used
+
+- **Frontend:** React.js  
+- **Styling:** Vanilla CSS  
+- **Backend:** None
+- **Data Storage:** None  
+
+---
+
+💡 Created with ❤️ by [marsel](https://github.com/marsellius88)
